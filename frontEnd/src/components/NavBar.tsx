@@ -3,7 +3,7 @@ import React from 'react'
 function NavBar() {
   return (
     <div>
-      <div className='h-24 w-24'>
+      <div className='size-24'>
 
       </div>
     </div>
